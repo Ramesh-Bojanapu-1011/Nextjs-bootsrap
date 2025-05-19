@@ -63,7 +63,7 @@ export default function Home() {
           Bootstrap 5 with Next.js
         </h2>
         <div className="container-fluid m-2 border border-success text-center">
-          <h4>Components</h4>{" "}
+          <h4>Components</h4>{' '}
           <div className="row m-2 ">
             <div className="col-sm">First Component</div>
             <div className="col-sm">Second Component</div>
@@ -97,16 +97,16 @@ export default function Home() {
         </div>
         <div className="container-fluid m-2 border text-center">
           <p className="muted">
-            Placeholder text to demonstrate some{" "}
+            Placeholder text to demonstrate some{' '}
             <a
               href="#"
               data-bs-toggle="tooltip"
               data-bs-title="Default tooltip"
             >
               inline links
-            </a>{" "}
+            </a>{' '}
             with tooltips. This is now just filler, no killer. Content placed
-            here just to mimic the presence of{" "}
+            here just to mimic the presence of{' '}
             <a
               href="#"
               data-bs-toggle="tooltip"
@@ -115,18 +115,18 @@ export default function Home() {
               real text
             </a>
             . And all that just to give you an idea of how tooltips would look
-            when used in real-world situations. So hopefully you've now seen how{" "}
+            when used in real-world situations. So hopefully you've now seen how{' '}
             <a
               href="#"
               data-bs-toggle="tooltip"
               data-bs-title="Another one here too"
             >
               these tooltips on links
-            </a>{" "}
-            can work in practice, once you use them on{" "}
+            </a>{' '}
+            can work in practice, once you use them on{' '}
             <a href="#" data-bs-toggle="tooltip" data-bs-title="The last tip!">
               your own
-            </a>{" "}
+            </a>{' '}
             site or project.
           </p>
         </div>

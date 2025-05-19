@@ -1,15 +1,15 @@
 // app/layout.tsx
-import BootstrapClient from "@/components/bootstrap-client";
-import "bootstrap/dist/css/bootstrap.min.css";
+import BootstrapClient from '@/components/bootstrap-client';
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 export const metadata = {
-  title: "My Bootstrap App",
+  title: 'My Bootstrap App',
   icons: {
-    icon: "/bootstrap.svg",
-    shortcut: "/bootstrap.svg",
-    apple: "/bootstrap.svg",
+    icon: '/bootstrap.svg',
+    shortcut: '/bootstrap.svg',
+    apple: '/bootstrap.svg',
   },
-  description: "Created with Next.js and Bootstrap",
+  description: 'Created with Next.js and Bootstrap',
 };
 
 export default function RootLayout({
